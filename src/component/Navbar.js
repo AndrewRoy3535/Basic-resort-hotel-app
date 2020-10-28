@@ -22,7 +22,7 @@ export default class Navbar extends Component {
                 <div className="nav-center">
                     <div className="nav-header">
                         <Link to="/">
-                            <img src={logo}/>
+                            <img src={logo} alt="logo"/>
                         </Link>
                         <button 
                         type="button" 
